@@ -1,7 +1,7 @@
 # Customer Retention
 
 ## 🔴 Detailed Session on EDA, Model Building & Model Deployment: 
-![YouTube](https://www.youtube.com/watch?v=GVECbcKUio4)
+https://www.youtube.com/watch?v=GVECbcKUio4
 
 ## 🔴 What is Customer Churning ?
 
