@@ -1,6 +1,6 @@
 # Customer Retention
 
-![Customer Retention](https://github.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/tree/main/images/Telco1.JPG)
+![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco1.JPG)
 
 
 In this section, we have used a RandomForestClassifier to identify customers that are likely to churn.
