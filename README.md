@@ -2,6 +2,22 @@
 
 ![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco1.JPG)
 
+## What are the different Churn Scenarios ?
+
+![Churn Scenarios](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco2.JPG)
+
+## Decision Cycle of a Subscriber ?
+
+![Decision Cycle](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco3.JPG)
+
+## What are the different Churn Segments ?
+
+![Churn Segments](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco4.JPG)
+
+## Solution Overview
+
+![Solution](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco5.JPG)
+
 
 In this section, we have used a RandomForestClassifier to identify customers that are likely to churn.
 
