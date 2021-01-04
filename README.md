@@ -1,5 +1,9 @@
 # Customer Retention
 
+## 🔴 Detailed Session on EDA, Model Building & Model Deployment: https://www.youtube.com/watch?v=GVECbcKUio4
+
+## 🔴 What is Customer Churning ?
+
 ![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco1.JPG)
 
 ## 🔴 What are the different Churn Scenarios ?
@@ -67,3 +71,5 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 
 
 HERE'S HOW OUR FRONTEND LOOKS LIKE:
+
+![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco6.JPG)
