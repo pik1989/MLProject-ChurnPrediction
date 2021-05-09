@@ -1,7 +1,10 @@
 # Customer Retention
 
-## 🔴 Detailed Session on EDA, Model Building & Model Deployment: 
+## 🔴 Detailed Session on EDA:
 
+[![Alt text](![image](https://user-images.githubusercontent.com/34673684/117579599-4043f080-b126-11eb-8946-0a440cef1d34.png))](https://www.youtube.com/watch?v=baL7OrGWlxs)
+
+## 🔴 Detailed Session on EDA, Model Building & Model Deployment: 
 
 [![Alt text](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/CC.JPG)](https://www.youtube.com/watch?v=GVECbcKUio4)
 
